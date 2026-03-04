@@ -88,23 +88,80 @@
 ---
 
 ### 📊 Performance Analytics
+---
+
+### 📊 Performance Analytics & Engineering Impact
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=adibkazi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /></td>
-      <td align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibkazi&layout=compact&theme=radical" /></td>
-    </tr>
-    <tr>
-      <td colspan="2"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adibkazi&theme=react-dark&area=true&hide_border=true" /></td>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eXFmY3E5bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1TVtoGMMFxvpkfG/giphy.gif" width="80%" />
+        <br />
+        <em>"Turning coffee into scalable MERN architectures"</em>
+      </td>
+      <td>
+        <h4>🚀 Impact Metrics</h4>
+        <ul>
+          <li><b>Frontend Efficiency:</b> Reduced re-renders by <b>40%</b> via Memoization & Code Splitting.</li>
+          <li><b>Scalability:</b> Architected <b>WageBliss</b> to handle <b>10,000+ concurrent workers</b>.</li>
+          <li><b>Automation:</b> Optimized payroll compliance from hours of work to <b>5 seconds</b>.</li>
+          <li><b>Security:</b> Implemented Role-Based Access Control (RBAC) for <b>Gurukrupa Bank</b>.</li>
+        </ul>
+      </td>
     </tr>
   </table>
 </div>
 
-### 🐍 The Contribution Snake
+<br />
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adibkazi/adibkazi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <table>
+    <tr>
+      <td align="center">
+        <b>Commit Strategy & Consistency</b><br />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adibkazi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+      </td>
+      <td align="center">
+        <b>Language Mastery</b><br />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibkazi&layout=compact&theme=radical&hide_border=true" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <b>Coding Activity Flow</b><br />
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adibkazi&theme=react-dark&area=true&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+---
+
+### 🐍 The Contribution Snake
+> *Watch the snake consume my daily commits and turn them into code!*
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adibkazi/adibkazi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adibkazi/adibkazi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adibkazi/adibkazi/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/adibkazi/adibkazi/output/ocean.svg" alt="Snake Animation" />
+</div>
+
+---
+
+### 🏆 Engineering Milestones
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adibkazi&theme=radical&no-frame=true&margin-w=15&column=7" />
+</p>
 
 ---
 
