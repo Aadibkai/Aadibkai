@@ -83,20 +83,38 @@ Experienced **Full Stack Developer** with 2+ years of expertise in the **MERN St
 
 ### 📊 Performance Analytics
 
+---
+
+### 📊 Engineering Capabilities & System Design
 <div align="center">
   <table border="0">
     <tr>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=adibkazi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /></td>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibkazi&layout=compact&theme=radical" /></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adibkazi&theme=react-dark&area=true&hide_border=true" />
+      <td width="50%" align="center">
+        <b>Core Competency Radar</b><br>
+        <img src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,node&perline=3" width="80%" />
+        <br><br>
+        <b>Infrastructure Stack</b><br>
+        <img src="https://skillicons.dev/icons?i=aws,docker,nginx,redis,github,postman&perline=3" width="80%" />
+      </td>
+      <td>
+        <h4>🚀 Beyond the Code:</h4>
+        <ul>
+          <li><b>System Design:</b> Architecting <b>Multi-tenant SaaS</b> structures.</li>
+          <li><b>State Management:</b> Expert in <b>Redux Toolkit</b> & Context API flow.</li>
+          <li><b>Optimization:</b> Mastery of <b>Lazy Loading</b> & <b>Code Splitting</b>.</li>
+          <li><b>Security:</b> Implementing <b>JWT</b> & Role-Based Access Control (RBAC).</li>
+          <li><b>Real-time:</b> Engineering event-driven systems via <b>WebSockets</b>.</li>
+        </ul>
       </td>
     </tr>
   </table>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y2czB4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4Jm09Y3Q9Zw/dW6L9XF5f9D4pS6kNo/giphy.gif" width="60%" />
+</div>
+
+---
 ---
 
 ### ⚡ Engineering Philosophy
