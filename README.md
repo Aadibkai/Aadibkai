@@ -64,17 +64,10 @@
 
 ---
 
-### 📊 Engineering Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadibkazi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
-  
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadibkazi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadibkazi&theme=radical&hide_border=true" alt="GitHub Streak" width="810" />
+  <img src="https://img.shields.io/badge/Main_Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Total_Projects-50+-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Solved_on_LeetCode-100+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </div>
 
 ---
