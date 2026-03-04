@@ -1,37 +1,86 @@
-# Hi 👋, I'm Adib Kazi
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20I'm%20Adib%20Kazi&fontSize=80&animation=fadeIn" />
+  
+  <h1>🚀 Full Stack MERN Developer</h1>
 
-### A passionate Javascript developer
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=MERN+Stack+Expert;Frontend+React+Specialist;Building+WageBliss+SaaS;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
+<hr />
 
-- 🔭 I'm currently working on **Developing a multi-tenant Industrial HRMS & Payroll SaaS platform that manages over 10,000 workers across 50+ contractor companies**
+### 👤 About Me
 
-- 🌱 I'm currently learning **Advanced System Design, AWS Cloud Architecture, and mastering Next.js to build even faster, SEO-friendly applications.**
+- 🔭 **Current Focus:** Leading development for **WageBliss** — a multi-tenant Industrial HRMS & Payroll SaaS managing 10,000+ workers and 50+ companies.
+- 💼 **Professional Experience:** Currently working at **FreedyGO**, building high-performance banking (Gurukrupa Bank) and FMCG platforms.
+- 🌱 **Growth Mindset:** Deep diving into **System Design**, **AWS Cloud**, and **Next.js** for enterprise-scale apps.
+- ⚡ **Fun Fact:** I reduced days of manual PF/ESIC paperwork into a **5-second automated script**!
 
-- 👯 I'm looking to collaborate on **Open-source MERN stack projects, specifically multi-tenant SaaS platforms or innovative FinTech solutions.**
+---
 
-- 🤝 I'm looking for help with **Deep-diving into CI/CD pipelines and automated testing strategies using Jest and Cypress for large-scale applications.**
+### 🛠️ Tech Stack
 
-- 💬 Ask me about **React.js, Redux Toolkit, Node.js, and how I built WageBliss—a SaaS HRMS handling statutory compliance for over 10,000 workers.**
+<table align="center">
+  <tr>
+    <td align="center" width="300"><strong>Frontend</strong></td>
+    <td align="center" width="300"><strong>Backend & DB</strong></td>
+    <td align="center" width="300"><strong>Tools & Cloud</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,js,tailwind,bootstrap,html,css" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,graphql" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,figma,jest" />
+    </td>
+  </tr>
+</table>
 
-- 📫 How to reach me **📧 Email: adibkazi1106@gmail.com 🔗 LinkedIn: linkedin.com/in/aadib-kazi**
+---
 
-- ⚡ Fun fact **I once automated complex PF/ESIC tax calculations for 50+ companies at once—turning days of manual paperwork into a 5-second script!**
+### 📊 GitHub Analytics
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1kpfXayTzyUoyTPSnSh5c4GP519QW09_QMSkLFCm81Nw/edit?tab=t.0](https://docs.google.com/document/d/1kpfXayTzyUoyTPSnSh5c4GP519QW09_QMSkLFCm81Nw/edit?tab=t.0)**
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aadibkai&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadibkai&layout=compact&theme=radical" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadibkai&theme=radical" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Aadibkai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Aadibkai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aadib-kazi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aadib-kazi/" height="30" width="40" /></a>
-<a href="https://leetcode.com/https://leetcode.com/u/aadibkazi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aadibkazi/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/codeigniter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+### 🤝 Connect with Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aadibkai&show_icons=true&locale=en&layout=compact" alt="Aadibkai" /></p>
+<div align="center">
+  <a href="mailto:adibkazi1106@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/aadib-kazi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/aadibkazi/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://docs.google.com/document/d/1kpfXayTzyUoyTPSnSh5c4GP519QW09_QMSkLFCm81Nw/edit?tab=t.0">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white" />
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aadibkai&show_icons=true&locale=en" alt="Aadibkai" /></p>
+<br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadibkai&" alt="Aadibkai" /></p>
-
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</div>
