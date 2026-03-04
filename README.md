@@ -2,9 +2,6 @@
 
 ### A passionate Javascript developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aadibkai&label=Profile views&color=0e75b6&style=flat" alt="Aadibkai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aadibkai" alt="Aadibkai" /></a> </p>
 
 - 🔭 I'm currently working on **Developing a multi-tenant Industrial HRMS & Payroll SaaS platform that manages over 10,000 workers across 50+ contractor companies**
 
