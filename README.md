@@ -1,247 +1,121 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=280&section=header&text=Adib%20Kazi&fontSize=80&fontAlignY=38&animation=twinkling&fontColor=ffffff"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=260&section=header&text=Adib%20Kazi&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Architect;Lead+Developer+at+WageBliss;SaaS+%26+FinTech+Specialist;AWS+Cloud+Engineer" alt="Typing SVG" />
+  </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB+%7C+AWS;Building+Scalable+Web+Applications;2%2B+Years+Industry+Experience"/>
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=adibkazi&theme=radical&no-frame=true&column=7&rank=SSS,SS,S,AAA" alt="github trophies" />
+    </a>
+  </p>
 
+  <p align="center">
+    <a href="https://linkedin.com/in/aadib-kazi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:adibkazi1106@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/aadibkazi/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+    <a href="https://docs.google.com/document/d/1kpfXayTzyUoyTPSnSh5c4GP519QW09_QMSkLFCm81Nw/edit"><img src="https://img.shields.io/badge/Digital_Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-# 👨‍💻 About Me
-
-🚀 Full Stack MERN Developer with **2+ years of experience** building scalable production applications across **Banking, FMCG E-commerce, AI Platforms, and SaaS products.**
-
-💼 Currently working as **Full Stack Developer at FreedyGO, Pune**
-
-I specialize in:
-
-• Scalable **React.js frontend architectures**  
-• High performance **Node.js backend APIs**  
-• **MongoDB database design**  
-• **Authentication & Role Based Systems**  
-• **Production-grade SaaS development**
+### 🚀 Executive Summary
+🚀 **Full Stack MERN Developer** with **2+ years** of industry experience. I specialize in turning complex business logic into high-performance, production-ready SaaS architectures. From securing **Banking Workflows** to scaling **E-commerce engines**, I focus on building software that scales.
 
 ---
 
-# 💎 Flagship SaaS Project
-
-## WageBliss — Industrial HRMS & Payroll Platform
-
-> Multi-tenant HRMS system managing workforce operations.
-
-### Highlights
-
-• Manages **10,000+ workers**  
-• Supports **50+ contractor companies**  
-• Automated payroll engine for **PF, ESIC, PT compliance**  
-• Real-time updates via **WebSockets**  
-• High-performance backend using **Redis caching**
-
-### Tech Stack
-
-```
-React
-Redux
-Node.js
-MongoDB
-Redis
-WebSockets
-AWS
-```
-
----
-
-# 🏢 Production Systems Built
-
-## 🏦 Gurukrupa Bank — FD Management System
-
-Internal banking platform used across multiple branches.
-
-Key Features
-
-• Role based dashboards for **staff, managers, admins**  
-• Fixed Deposit creation & approval workflows  
-• Secure authentication & API integration  
-• Optimized React rendering using memoization
-
-Impact
-
-✔ Improved banking workflow efficiency  
-✔ Reduced manual record management
-
----
-
-## 🛒 FreedyGO — B2B & B2C FMCG Platform
-
-High traffic commerce platform.
-
-Key Contributions
-
-• Developed scalable **React components**  
-• Integrated APIs for product listings & orders  
-• Built **cart & checkout workflows**  
-• Improved performance with optimized API handling
-
-Result
-
-⚡ Faster load speeds  
-⚡ Better user experience
-
----
-
-## 🤖 Skilotech — AI Job Portal
-
-AI-driven hiring platform.
-
-Features
-
-• Recruiter dashboards  
-• Candidate dashboards  
-• Job recommendation APIs  
-• Profile and application management
-
----
-
-# 🛠️ Tech Stack
-
-## 🎨 Frontend
-
-```
-React.js
-Redux Toolkit
-JavaScript (ES6+)
-TypeScript
-Tailwind CSS
-HTML5
-CSS3
-React Hooks
-Context API
-```
-
----
-
-## ⚙️ Backend
-
-```
-Node.js
-Express.js
-REST APIs
-JWT Authentication
-MVC Architecture
-WebSockets
-```
-
----
-
-## 🗄 Databases
-
-```
-MongoDB
-PostgreSQL
-MySQL
-Redis
-```
-
----
-
-## ☁️ DevOps & Cloud
-
-```
-AWS EC2
-AWS S3
-AWS Route53
-CI/CD
-Docker
-Nginx
-```
-
----
-
-## 🧰 Tools
-
-```
-Git
-GitHub
-Postman
-VS Code
-Agile Development
-Figma
-```
-
----
-
-# 📊 GitHub Analytics
+### 💎 Featured Product: [WageBliss](https://github.com/adibkazi)
+> **The Industrial HRMS & Payroll Powerhouse**
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adibkazi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibkazi&layout=compact&theme=radical"/>
-
+  <table border="0">
+    <tr>
+      <td width="45%">
+         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJpZzRndHBybmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+      </td>
+      <td>
+        <h4>Technical Deep Dive:</h4>
+        <ul>
+          <li><b>High-Scale:</b> Managing <b>10,000+ Workers</b> across 50+ Enterprises.</li>
+          <li><b>Compliance Engine:</b> Automated 5-second processing for PF, ESIC, and PT.</li>
+          <li><b>Tech Mastery:</b> Multi-tenant SaaS with <b>WebSockets</b> & <b>Redis</b>.</li>
+          <li><b>Hardware Link:</b> Biometric API integration for real-time industrial logs.</li>
+          <li><b>Mobility:</b> Synchronized workforce management via <b>React Native</b>.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-# 📈 Contribution Graph
+### 🏗️ Production Systems Gallery
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adibkazi&theme=react-dark&area=true&hide_border=true"/>
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><strong>🏦 FinTech</strong></td>
+    <td align="center" width="33%"><strong>🛒 E-Commerce</strong></td>
+    <td align="center" width="33%"><strong>🤖 AI Systems</strong></td>
+  </tr>
+  <tr>
+    <td><b>Gurukrupa Bank</b><br>Internal FD Management System. Optimized React rendering to handle multi-branch branch operations.</td>
+    <td><b>FreedyGO</b><br>B2B/B2C marketplace for FMCG. Reduced frontend latency by 40% using memoization.</td>
+    <td><b>Skilotech</b><br>AI-driven hiring portal with automated recruiter dashboards and profile management.</td>
+  </tr>
+</table>
 
 ---
 
-# 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/adibkazi/adibkazi/output/github-contribution-grid-snake.svg"/>
-
----
-
-# 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=adibkazi&theme=radical&no-frame=true&column=7"/>
-
----
-
-# 🌐 Connect With Me
+### 🛠️ Technical Arsenal (Categorized)
 
 <div align="center">
-
-<a href="mailto:adibkazi1106@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/aadib-kazi">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/adibkazi">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/u/aadibkazi/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
+  <table>
+    <tr>
+      <td align="center"><strong>Frontend Mastery</strong></td>
+      <td align="center"><strong>Backend & Systems</strong></td>
+      <td align="center"><strong>Cloud & DevOps</strong></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,js,tailwind,bootstrap,html,css" /></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,graphql,redis,mysql" /></td>
+      <td><img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,postman,jest,figma" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-# 👁 Profile Views
+### 📊 Performance Analytics
 
-<img src="https://komarev.com/ghpvc/?username=adibkazi&label=PROFILE+VIEWS&color=00d2ff&style=flat-square"/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=adibkazi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /></td>
+      <td align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibkazi&layout=compact&theme=radical" /></td>
+    </tr>
+    <tr>
+      <td colspan="2"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adibkazi&theme=react-dark&area=true&hide_border=true" /></td>
+    </tr>
+  </table>
+</div>
+
+### 🐍 The Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/adibkazi/adibkazi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
-# ⚡ Engineering Philosophy
+### ⚡ Engineering Philosophy
+> *“Great software is not just written — it is architected.”*
+> **Focus:** Clean Code ➜ Scalable Systems ➜ High Performance.
 
-> “Great software is not just written — it is architected.”
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adibkazi&label=PROFILE+VIEWS&color=00d2ff&style=flat-square" />
+</p>
 
-I focus on:
-
-✔ Clean architecture  
-✔ Performance optimization  
-✔ Scalable SaaS platforms  
-✔ Production-ready engineering  
-
----
-
-⭐ **Open to opportunities in Full Stack Engineering, SaaS Platforms, FinTech, and High Scale Systems**
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
