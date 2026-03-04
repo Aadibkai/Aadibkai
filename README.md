@@ -9,33 +9,32 @@
     <a href="https://linkedin.com/in/aadib-kazi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:adibkazi1106@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://leetcode.com/u/aadibkazi/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-    <a href="https://docs.google.com/document/d/1kpfXayTzyUoyTPSnSh5c4GP519QW09_QMSkLFCm81Nw/edit"><img src="https://img.shields.io/badge/Digital_Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-### 🚀 Flagship Project: [WageBliss SaaS](https://github.com/adibkazi)
-**Industrial HRMS & Payroll Architecture**
+### 🎥 Project Showcase: [WageBliss](https://github.com/adibkazi)
+> **Multi-tenant HRMS & Payroll SaaS — 10k+ Workers managed**
 
 <div align="center">
   <table border="0">
     <tr>
-      <td width="45%">
-         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JkZzV0M2JxcWtxYndreW93ZzN4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Jm09Y3Q9Zw/SWoRKslxGqQAptZHCB/giphy.gif" width="100%" />
+      <td width="55%">
+         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JkZzV0M2JxcWtxYndreW93ZzN4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Jm09Y3Q9Zw/SWoRKslxGqQAptZHCB/giphy.gif" width="100%" style="border-radius: 12px; border: 2px solid #36BCF7;" />
       </td>
       <td>
-        <h4>💻 Technical Core:</h4>
+        <h4>🚀 High-Impact Stats:</h4>
         <ul>
-          <li><b>Scalability:</b> Managed <b>10,000+ Workers</b> & 50+ Enterprises.</li>
-          <li><b>Automation:</b> Automated PF/ESIC compliance in <b>< 5 seconds</b>.</li>
-          <li><b>Infrastructure:</b> Multi-tenant AWS system with <b>Redis</b> & <b>WebSockets</b>.</li>
-          <li><b>Industrial Link:</b> Real-time <b>Biometric API</b> integration.</li>
+          <li><b>Payroll Engine:</b> PF/ESIC compliance in <b>< 5 seconds</b>.</li>
+          <li><b>Scale:</b> 50+ Contractor Companies integrated.</li>
+          <li><b>Infrastructure:</b> Scalable <b>AWS (EC2/S3)</b> deployment.</li>
+          <li><b>Real-time:</b> Live Biometric logs via <b>WebSockets</b>.</li>
         </ul>
         <p align="center">
             <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react" />
             <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
-            <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws" />
+            <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis" />
         </p>
       </td>
     </tr>
@@ -44,54 +43,35 @@
 
 ---
 
-### 🧪 Technical Arsenal (Categorized)
+### 🛠️ Technical Arsenal
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%"><strong>🎨 Frontend</strong></td>
-      <td align="center" width="33%"><strong>⚙️ Backend</strong></td>
-      <td align="center" width="33%"><strong>☁️ Infrastructure</strong></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,tailwind,js" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,graphql" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=aws,docker,nginx,github,git,figma" /></td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,nodejs,express,mongodb,postgres,redis,aws,docker,nginx,github,tailwind&perline=8" />
 </div>
 
 ---
 
-### 📊 Professional Performance & Analytics
+### 📈 Engineering Proficiency
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">
-        <b>Programming Language Mastery</b><br>
         <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibkazi&layout=compact&theme=radical&hide_border=true" />
       </td>
       <td align="center">
-        <b>Engineering Proficiency</b><br>
         <img height="200em" src="https://github-readme-stats.vercel.app/api?username=adibkazi&show_icons=true&theme=radical&count_private=true&hide_border=true" />
       </td>
     </tr>
   </table>
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y2czB4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4Jm09Y3Q9Zw/dW6L9XF5f9D4pS6kNo/giphy.gif" width="65%" />
-</div>
-
 ---
 
 ### ⚡ Engineering Philosophy
-> *“Great software is not just written — it is architected for scalability and security.”*
+> *“Great software is not just written — it is architected for scalability.”*
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y2czB4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4Jm09Y3Q9Zw/dW6L9XF5f9D4pS6kNo/giphy.gif" width="60%" />
 </div>
 
 <p align="center">
